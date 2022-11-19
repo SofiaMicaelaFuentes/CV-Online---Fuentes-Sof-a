@@ -1,0 +1,47 @@
+div{
+    display: flex;
+    background-color:antiquewhite;
+}
+.program{
+    display:flex;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-left: 20px;
+    font-size: 18px;
+}
+
+.lista_lenguajes{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color:antiquewhite;
+    padding-left: 300px;
+    font-size: 18px;
+
+}  
+.frances{
+    display:flex;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 8px;
+    font-size: 18px;
+}
+.danza{
+    display:flex;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 8px;
+    font-size: 18px;
+}
+.foto_danza{
+    width: 250px;
+    height: 280px;
+    background-color: antiquewhite;
+    padding-left: 300px;
+}
+.patin{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 8px;
+    font-size: 18px;
+}
+.foto_patin{
+    width: 250px;
+    height: 280px;
+    background-color: antiquewhite;
+    padding-left: 300px;
+}

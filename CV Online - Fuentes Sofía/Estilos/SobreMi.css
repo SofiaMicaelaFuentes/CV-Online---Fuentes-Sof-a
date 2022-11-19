@@ -1,0 +1,8 @@
+.Sobre_Mi{
+    display: flex;
+    background-color:antiquewhite;
+}
+.Interes{
+    font-size: 22px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}

@@ -1,0 +1,17 @@
+.nav-enlace{
+    display: inline-block;
+    background: salmon;
+    color: #fff;
+    padding: 20px 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: none;
+}
+.nav-enlace:hover{
+    background: rosybrown;
+}
+nav{
+    background: rebeccapurple;
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+}
